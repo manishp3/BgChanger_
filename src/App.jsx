@@ -12,7 +12,7 @@ function App() {
          
           <button type="button" className="btn" onClick={()=>setColor("red")}>Red</button> 
           <button type="button" className="btn" onClick={() => setColor("green")}>Green</button>
-          <button type="button" className="btn" onClick={() => setColor("olive")}>Olive</button>
+          <button type="button" className="btn" onClick={() => setColor("cyan")}>cyan</button>
    
     </div>
   )
